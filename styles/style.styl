@@ -1,0 +1,49 @@
+@import "_*.styl"
+
+body
+  background-image url('img/background2.jpg')
+  background-position center
+  background-repeat no-repeat
+  height 100vh
+
+.content
+  background $dark_bg
+  border-radius 5px
+  margin 10px
+  padding 10px
+
+.pane
+  max-width 440px
+  margin 10px
+  padding 10px
+
+.seperator
+  color orange
+
+a
+  text-decoration none
+  color white
+  &:hover
+    text-decoration none
+    color orange
+
+button
+  background orange
+  border none
+  margin 10px
+  padding 10px
+  color white
+  text-transform uppercase
+  &:hover
+    background darkorange
+
+input
+  width: 100%;
+  padding: 10px 18px;
+  margin: 6px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+
+@media all and (max-height:900px)
+  body
+    height auto
