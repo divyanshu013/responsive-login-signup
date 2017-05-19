@@ -1,6 +1,6 @@
 # Responsive Login Signup 🚀
 
-A beautiful responsive login and signup screen
+A beautiful responsive login and signup screen. Live preview [here](https://divyanshu013.github.io/responsive-login-signup/).
 
 ## Installation
 
