@@ -2,6 +2,8 @@
 
 A beautiful responsive login and signup screen. Live preview [here](https://divyanshu013.github.io/responsive-login-signup/).
 
+![Screenshot](styles/img/ss.png)
+
 ## Installation
 
 Clone the repo and install packages via `npm` or `yarn`:
